@@ -1,0 +1,5 @@
+[25-Aug-2013 13:20:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in C:\wamp\www\ideamart_apps\SMSApp\lib\SmsDeliveryReport.php:38
+Stack trace:
+#0 C:\wamp\www\ideamart_apps\SMSApp\app\SmsDeliveryReport.php(19): SmsDeliveryReport->__construct()
+#1 {main}
+  thrown in C:\wamp\www\ideamart_apps\SMSApp\lib\SmsDeliveryReport.php on line 38

@@ -1,0 +1,16 @@
+[ content=Test Harsha, address=tel:94771122336, requestId=1377434303960, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377435369142, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377435388594, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377435394970, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377435727633, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377435731225, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377436677925, applicationId=APP_000001, encoding=0, version=1.0 ]
+[ content=Test Harsha, address=tel:94771122336, requestId=1377436825061, applicationId=APP_000001, encoding=0, version=1.0 ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94771122336, timeStamp=1308251850, requestId=tel:94771122336, deliveryStatus=Delivered ]
+[ content=Test Harsddha, address=tel:94771122336, requestId=1377436856489, applicationId=APP_000001, encoding=0, version=1.0 ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94771122336, timeStamp=1308251851, requestId=tel:94771122336, deliveryStatus=Delivered ]
+[ content=Test Harsddha, address=tel:94771122336, requestId=1377436871277, applicationId=APP_000001, encoding=0, version=1.0 ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94771122336, timeStamp=1308251851, requestId=tel:94771122336, deliveryStatus=Delivered ]
